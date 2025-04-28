@@ -1,0 +1,14 @@
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.AssemblyInfoInputs.cache
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.AssemblyInfo.cs
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\bin\Debug\net9.0\CPU_Scheduler.exe
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\bin\Debug\net9.0\CPU_Scheduler.deps.json
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\bin\Debug\net9.0\CPU_Scheduler.runtimeconfig.json
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\bin\Debug\net9.0\CPU_Scheduler.dll
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\bin\Debug\net9.0\CPU_Scheduler.pdb
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.dll
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\refint\CPU_Scheduler.dll
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.pdb
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\CPU_Scheduler.genruntimeconfig.cache
+C:\Users\Tony Doko\Documents\KSU Classes Folders\OS CS3502\Project 2\CPU_Scheduler\obj\Debug\net9.0\ref\CPU_Scheduler.dll
